@@ -1,7 +1,5 @@
 # Plotly-Belly-Button-Biodiversity
 
-# Plotly-Belly-Button-Biodiversity
-
 Roza is a biological researcher in a prominent microbiology laboratory. Many bacterial species are not well studied 
 and many more remain unknown to science. Roza's role is to discover and document these bacteria. In particula Roza
 is interested in bacterial species that have ability to synthesize proteins that taste like beef. Her lab has partnered
