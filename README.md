@@ -16,6 +16,7 @@ They've instead been assigned an ID number. Roza wanted to build a dashboard tha
 access. She has a completed panel for demographic information and wanted
 to visualize the bacterial data for each volunteer. This is the aim we have pursued in this project.
 
+![pic](Untitled.png)
 
 Those who participated in the study are able to visit a website and select their ID numbers to see which bacterial 
 species live in their navels. Now her volunteers are able to identify the top 10 bacterial species in their belly buttons.
